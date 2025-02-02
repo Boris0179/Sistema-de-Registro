@@ -2,4 +2,4 @@
 
 Para ejecutar el sistema debes poner ....
 
-actauliza en loinea
+actualiza en linea
